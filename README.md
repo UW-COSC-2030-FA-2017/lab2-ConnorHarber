@@ -1,2 +1,2 @@
 # Lab2-LinkedLists
-Follow the Instructions found in Lab2-Linked_Lists.odt and use the code in the code/ folder to complete this lab.
+(final cpp can be found inside the lab2 folder, inside lab2 mainfolder visible in github)
